@@ -1,6 +1,6 @@
 # Virtual Art Gallery
 
-A simple Virtual Art Gallery system built in Java, designed to manage artworks, galleries, and user favorites. It provides functionality for adding, viewing, updating, and removing artworks, managing galleries, and maintaining a list of favorite artworks for users using a menu-driven interface.
+A simple Virtual Art Gallery system built in Java, designed to manage artworks, galleries, and user favourites. It provides functionality for adding, viewing, updating, and removing artworks, managing galleries, and maintaining a list of favorite artworks for users using a menu-driven interface.
 
 ## Features
 - **Add New Artwork**: Add details of a new artwork to the gallery.
@@ -8,9 +8,9 @@ A simple Virtual Art Gallery system built in Java, designed to manage artworks, 
 - **Remove Artwork**: Delete artworks from the gallery.
 - **Get Artwork by ID**: Retrieve details of a specific artwork using its ID.
 - **Search Artworks**: Search artworks based on keywords (title, description, medium).
-- **Add Artwork to User Favorites**: Mark artworks as favorites for a user.
-- **Remove Artwork from User Favorites**: Unmark artworks from a user's favorites.
-- **Get User Favorite Artworks**: Retrieve the list of favorite artworks for a specific user.
+- **Add Artwork to User Favourites**: Mark artworks as favourites for a user.
+- **Remove Artwork from User Favourites**: Unmark artworks from a user's favourites.
+- **Get User Favourite Artworks**: Retrieve the list of favourite artworks for a specific user.
 
 ## Prerequisites
 - **Java 8+**: Make sure Java is installed and added to your system's PATH.
